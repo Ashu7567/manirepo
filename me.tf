@@ -3,6 +3,7 @@
 6th line added
 7th line added
 8th line added
+<<<<<<< HEAD
 user 
 gut
 git
@@ -17,3 +18,19 @@ userbc
 gfg
  vxc
  yer
+=======
+10th line added
+11th line added
+9th line added
+10th line added
+shakalakaboom
+shaktimaan
+hanuman
+ram
+shyam
+billi
+bharat
+kutta
+shyam
+lakshman
+>>>>>>> master
