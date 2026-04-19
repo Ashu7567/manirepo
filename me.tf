@@ -4,6 +4,7 @@
 7th line added
 8th line added
 <<<<<<< HEAD
+<<<<<<< HEAD
 user 
 gut
 git
@@ -19,6 +20,8 @@ gfg
  vxc
  yer
 =======
+=======
+>>>>>>> 153546a3ea4dd10305b10354669815cf995f2619
 10th line added
 11th line added
 9th line added
@@ -33,4 +36,17 @@ bharat
 kutta
 shyam
 lakshman
+<<<<<<< HEAD
 >>>>>>> master
+=======
+I am devops engineer
+I work in ukg I am great
+I am 33 years old
+I live in bhd
+>>>>>>> 153546a3ea4dd10305b10354669815cf995f2619
+something 
+went
+wrong
+merging 
+is not
+happening
